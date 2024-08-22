@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/atharvapawar16/leetcode1/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvapawar16/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/atharvapawar16/leetcode1/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/atharvapawar16/leetcode1/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/atharvapawar16/leetcode1/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/atharvapawar16/leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
