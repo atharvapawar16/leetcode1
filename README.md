@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/atharvapawar16/leetcode1/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/atharvapawar16/leetcode1/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharvapawar16/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvapawar16/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/atharvapawar16/leetcode1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/atharvapawar16/leetcode1/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/atharvapawar16/leetcode1/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharvapawar16/leetcode1/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvapawar16/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/atharvapawar16/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/atharvapawar16/leetcode1/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharvapawar16/leetcode1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvapawar16/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
